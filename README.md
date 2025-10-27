@@ -1,2 +1,2 @@
 # smartcontract-003
-DAO
+DAO on base mainnet (voting)
